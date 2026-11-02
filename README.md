@@ -12,4 +12,4 @@ Helping early-stage tech companies deploy, manage, and scale open-source data ca
 ### 🚀 Featured Focus
 I specialize in helping startups migrate from messy, decentralized data silos to structured, governed catalogs using **Apache Polaris**, enabling engineering teams to focus on core product development rather than infrastructure maintenance.
 
-📫 **Contact me on Upwork to discuss your data infrastructure:** [ClearCatalog(https://www.upwork.com/freelancers/~01904b1a3a86b0c894)]
+📫 **Contact me on Upwork to discuss your data infrastructure:** [ClearCatalog](https://www.upwork.com/freelancers/~01904b1a3a86b0c894)
